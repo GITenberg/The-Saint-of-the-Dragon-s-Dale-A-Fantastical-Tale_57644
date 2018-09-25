@@ -1,5 +1,8 @@
 _repo: The-Saint-of-the-Dragon-s-Dale-A-Fantastical-Tale_57644
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57644-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, William Stearns
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1557'
     url: http://www.gutenberg.org/2009/agents/1557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57644#The-Saint-of-the-Dragon-s-Dale-A-Fantastical-Tale
 gutenberg_issued: '2018-08-06'
 gutenberg_type: Text
 identifiers:
